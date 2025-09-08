@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Talish Khan</h1>
-<h3 align="center">Data Science Postgrad | Skilled in Python, Power BI, SQL | Open to Internships</h3>
+<h3 align="center">Data Science Postgrad | Skilled in Python, Power BI, SQL, Tableau | Open to Internships</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tk270302&label=Profile%20views&color=0e75b6&style=flat" alt="tk270302" /> </p>
 
